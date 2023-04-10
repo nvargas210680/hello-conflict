@@ -1,11 +1,15 @@
-function sayHello(){
-    console.log("hello")
+const name = "Nicolas"
+
+function diHola(){
+    console.log(`hola ${name}`)
 }
 
-sayHello()
+diHola()
 
 function fareWell(){
-    console.log("Bye Luke")
+    
+    console.log(`Bye ${name}`)
 }
 
 fareWell()
+
