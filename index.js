@@ -3,3 +3,9 @@ function sayHello(){
 }
 
 sayHello()
+
+function fareWell(){
+    console.log("Bye Luke")
+}
+
+fareWell()
